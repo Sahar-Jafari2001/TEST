@@ -12,7 +12,7 @@ public class Addnum {
     
 
     public static void main(String[] args) {
-        System.out.println("a+b= " + Addnum.addnum(3,8));
+        System.out.println("a+b equals to= " + Addnum.addnum(3,8));
         
     }
     
