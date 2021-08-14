@@ -12,7 +12,7 @@ public class Addnum {
     
 
     public static void main(String[] args) {
-        System.out.println("A + B equals to= " + Addnum.addnum(3,8));
+        System.out.println("HI every body A + B equals to= " + Addnum.addnum(3,8));
         
     }
     
